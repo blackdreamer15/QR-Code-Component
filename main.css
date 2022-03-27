@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --white: hsl(0, 0%, 100%);
+    --lightGray: hsl(212, 45%, 89%);
+    --grayishBlue: hsl(220, 15%, 55%);
+    --darkBlue: hsl(218, 44%, 22%);
+}
+
+body {
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+}
+
+
+/*
+*Mobile width: 375px
+*Desktop width: 1440px
+*/
+
+
+/*---- CODER'S ATTRIBUTION----*/
+footer.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+footer.attribution a {
+    color: hsl(228, 45%, 44%);
+}
