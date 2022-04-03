@@ -25,10 +25,12 @@ Frontend Mentor challenges can help you improve your coding skills by building r
 
 ### Links
 
-- Solution URL: [Click here](https://your-solution-url.com)
-- Live Site URL: [Click here](https://qr-code-component-page.netlify.app/)
+- Solution URL: [Click here to check out the solution on Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-project-rJ9h8KLm9)
+- Live Site URL: [Click here to preview the site](https://qr-code-component-page.netlify.app/)
 
 ## My process
+For this challenge, I started by creating a semantic markup of my code and added some content. I moved on to the CSS by declaring some custom properties. I worked with flexbox and manipulated the box model to make the QR Code Component responsive and static on all devices. I then styled it by adding some colours and a convenient font. Finally, I touched on the border-radii.
+
 
 ### Built with
 
