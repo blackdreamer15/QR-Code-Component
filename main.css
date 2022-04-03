@@ -36,8 +36,8 @@ main.container {
 }
 
 main.container img.qr-code-img {
-    height: 260px;
-    width: 270px;
+    height: 270px;
+    width: 280px;
     border-radius: 10px;
 }
 
@@ -46,6 +46,9 @@ main.container div.content {
     padding: 20px;
 }
 
+main .container div.content h1 {
+    font-size: 26px;
+}
 
 main.container div.content p {
     color: var(--grayishBlue);
