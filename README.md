@@ -73,7 +73,7 @@ main.container {
 
 ## Author
 
-- Linktree - [Jessy Julien](https://www.link.tree/jessyjulien_)
+- Linktree - [Jessy Julien](https://www.linktr.ee/jessyjulien_)
 - Frontend Mentor - [@blackdreamer15](https://www.frontendmentor.io/profile/blackdreamer15)
 - Twitter - [@jessyjulien_](https://www.twitter.com/jessyjulien_)
 - Linkedin - [Jessy J. J. Baki](https://www.linkedin.com/in/jessy-justice-julien-baki/)
