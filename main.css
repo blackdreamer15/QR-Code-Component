@@ -36,7 +36,7 @@ main.container {
 }
 
 main.container img.qr-code-img {
-    height: 230px;
+    max-height: 200px;
     width: 270px;
     border-radius: 10px;
 }
@@ -57,7 +57,7 @@ main.container div.content p {
 
 /*---- CODER'S ATTRIBUTION----*/
 footer.attribution {
-    font-size: 13px;
+    font-size: 12px;
     text-align: center;
     margin-top: 20px;
 }
@@ -68,4 +68,11 @@ footer.attribution p:last-child {
 
 footer.attribution a {
     color: hsl(228, 45%, 44%);
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: 700;
+}
+
+footer.attribution a:hover {
+    color: #3281a8;
 }
