@@ -51,6 +51,11 @@ main.container div.content p {
     margin: 15px auto 0;
 }
 
+main.container div.content h1 {
+    padding: auto;
+    font-size: 20px !important;
+}
+
 /*---- CODER'S ATTRIBUTION----*/
 footer.attribution {
     font-size: 12px;
