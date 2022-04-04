@@ -53,6 +53,8 @@ main.container div.content p {
 
 main.container div.content h1 {
     font-size: 24px !important;
+    padding-left: auto;
+    padding-right: auto;
 }
 
 /*---- CODER'S ATTRIBUTION----*/
