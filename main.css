@@ -46,10 +46,6 @@ main.container div.content {
     padding: 20px;
 }
 
-main .container div.content h1 {
-    font-size: 18px;
-}
-
 main.container div.content p {
     color: var(--grayishBlue);
     margin: 15px auto 0;
