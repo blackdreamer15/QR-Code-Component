@@ -36,8 +36,8 @@ main.container {
 }
 
 main.container img.qr-code-img {
-    max-height: 250px;
-    width: 260px;
+    max-height: 255px;
+    width: 265px;
     border-radius: 10px;
 }
 
