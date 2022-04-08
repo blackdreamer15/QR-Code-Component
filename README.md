@@ -77,4 +77,5 @@ main.container {
 - Twitter - [@jessyjulien_](https://www.twitter.com/jessyjulien_)
 - Linkedin - [Jessy J. J. Baki](https://www.linkedin.com/in/jessy-justice-julien-baki/)
 
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7f13abc3-5452-4181-b448-d3b0483d6a18/deploy-status)](https://app.netlify.com/sites/qr-code-component-page/deploys)
