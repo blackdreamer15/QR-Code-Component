@@ -23,6 +23,7 @@ Frontend Mentor challenges can help you improve your coding skills by building r
 ![Desktop Preview](./preview/Screenshot%20(856).png)
 
 
+
 ### Links
 
 - Solution URL: [Click here to check out the solution on Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-project-rJ9h8KLm9)
